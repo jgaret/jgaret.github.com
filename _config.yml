@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Don
 tagline:             'Yet another blog'
-description:         'Un espace où je pourrais enfin prendre en note ce que je cherche un jour mais que j\'oublie toujours le lendemain'
+description:         "Un espace où je pourrais enfin prendre en note ce que je cherche un jour mais que j'oublie toujours le lendemain"
 url:                 http://jgaret.github.io
 baseurl:             /
 paginate:            5
